@@ -38,6 +38,10 @@ node_modules/
 htmlcov/
 *.iml
 
+# Java
+**/target/*
+**/bin/*
+
 # Terraform
 # See: https://github.com/github/gitignore/blob/master/Terraform.gitignore
 **/.terraform/*
